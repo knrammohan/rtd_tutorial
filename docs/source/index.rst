@@ -12,6 +12,7 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development. (Test by RMKN)
+   This is super quick in analyzing and building the documents.
 
 Contents
 --------
